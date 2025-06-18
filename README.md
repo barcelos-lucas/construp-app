@@ -1,7 +1,7 @@
 
 # 🏗️ Construp — Gestão de Materiais para Construção
 
-> Sistema de gerenciamento de materiais de construção, estruturado com foco em boas práticas de arquitetura de software, seguindo os princípios de Clean Architecture, SOLID e Clean Code.
+Sistema de gerenciamento de materiais de construção, estruturado com foco em boas práticas de arquitetura de software, seguindo os princípios de Clean Architecture, SOLID e Clean Code.
 
 ---
 
@@ -32,7 +32,7 @@ construp/
 ## ⚙️ Tecnologias Utilizadas
 
 ### 📌 Backend
-- >=PHP 8.x
+- PHP 8.x
 - Laravel 10+
 - PostgreSQL
 - Clean Architecture
